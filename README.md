@@ -1,4 +1,4 @@
-# UK Used Car-Price-Prediction
+# UK Used Car Price Prediction
 This project focuses on developing a machine learning model to accurately predict car prices in UK using relevant features.
 
 Project Goals:
