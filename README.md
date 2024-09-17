@@ -12,4 +12,5 @@ This project aims to demonstrate the effectiveness of machine learning technique
 
 This dataset shows all adverts on one of the biggest used card website in the UK in Oct 2022.
 
-There are more than 1 million rows of records. Each row represent one vehicle with more than 30 columns each represents a attribute oif the advert, such as price, car make, model, variant, transmission, engine size, body type etc..
+There are more than 1 million rows of records. Each row represent one vehicle with more than 30 columns each represents a attribute oif the advert, such as price, car make, model, variant, transmission, engine size, body type etc.
+
