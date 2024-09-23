@@ -4,7 +4,7 @@
 This project focuses on developing a regression model to accurately predict used car prices in the UK, using relevant features extracted from a large dataset of car advertisements.
 
 **PACE Strategy:**
-The project follows the PACE strategy (Plan, Act, Control, Evaluate) to systematically achieve the following goals:
+The project follows the PACE strategy (Plan, Analyse, Construct, Execute) to systematically achieve the following goals:
 
 **Project Goals:**
 1. Build a regression model capable of predicting used car prices with high accuracy.
