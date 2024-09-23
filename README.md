@@ -1,18 +1,19 @@
 # UK Used Car Price Prediction
-This project focuses on developing a regression model to accurately predict used car prices in the UK using relevant features.
+**Project Overview:**
 
-This project follows the PACE strategy to achieve project goals.
+This project focuses on developing a regression model to accurately predict used car prices in the UK, using relevant features extracted from a large dataset of car advertisements.
 
-Project Goals:
+**PACE Strategy:**
+The project follows the PACE strategy (Plan, Act, Control, Evaluate) to systematically achieve the following goals:
+
+**Project Goals:**
 1. Build a regression model capable of predicting used car prices with high accuracy.
 2. Identify the key features that significantly influence car prices.
-3. Evaluate the performance of the model using appropriate metrics and techniques.
-4. Using the best performing model to predict the prices of cars.
+3. Evaluate the model's performance using appropriate metrics and techniques.
+4. Use the best-performing model to predict car prices reliably.
 
-This project aims to demonstrate the effectiveness of regression model techniques in predicting Uk used car prices accurately. By leveraging advanced algorithms and thorough data analysis, we aim to provide insights into the factors influencing car prices and develop a reliable predictive model.
+The objective is to demonstrate the effectiveness of various regression techniques in predicting UK used car prices. By leveraging advanced machine learning algorithms and thorough data analysis, we aim to provide insights into the factors influencing car prices and develop a robust predictive model.
 
-
-This dataset shows all adverts on one of the biggest used card website in the UK in Oct 2022.
-
-There are more than 1 million rows of records. Each row represent one vehicle with more than 30 columns each represents a attribute of the advert, such as price, car make, model, variant, transmission, engine size, body type etc..
+**Dataset Description:**
+The dataset contains over 1 million rows, each representing a vehicle advertised on one of the largest used car websites in the UK, collected in October 2022. The dataset includes more than 30 columns, detailing attributes such as price, car make, model, variant, transmission, engine size, body type, and other relevant features.
 
